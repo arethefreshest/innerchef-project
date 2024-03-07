@@ -1,0 +1,17 @@
+# Django #
+
+*.log
+*.pot
+*.pyt
+__pycache__/
+db.sqlite3
+media
+
+# Python #
+venv/
+*_py[cod]
+*$py.class
+
+# Node #
+node_modules/
+/innerchef-frontend/build
